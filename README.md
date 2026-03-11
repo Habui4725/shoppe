@@ -21,4 +21,5 @@ git clone https://github.com/Habui4725/shoppe.git
 🙌 Credits
 Thiết kế và phát triển bởi Hà Bùi.
 Ảnh sản phẩm demo được lấy từ Shopee.vn và chỉ mang tính minh họa.
-
+## 🌐 Demo
+Xem trực tiếp website tại: [Shopee Static Website]( https://habui4725.github.io/shoppe/)
